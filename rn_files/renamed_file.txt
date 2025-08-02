@@ -1,2 +1,2 @@
-look up file3.txt
+look up txt_files/file3.txt
 This is not the end of the text, further changes are likely to be made
