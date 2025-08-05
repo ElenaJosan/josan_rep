@@ -1,5 +1,0 @@
-Hello world
-This is my commit
-I'm a Junior QA
-This is not the end of the text, further changes are likely to be made
-look up txt_files/file3.txt
